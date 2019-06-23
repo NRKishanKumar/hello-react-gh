@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hello-react-gh/static/css/main.2cce8147.chunk.css",
+    "main.js": "/hello-react-gh/static/js/main.c01ff72e.chunk.js",
+    "main.js.map": "/hello-react-gh/static/js/main.c01ff72e.chunk.js.map",
+    "runtime~main.js": "/hello-react-gh/static/js/runtime~main.87450e69.js",
+    "runtime~main.js.map": "/hello-react-gh/static/js/runtime~main.87450e69.js.map",
+    "static/js/2.b41502e9.chunk.js": "/hello-react-gh/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/hello-react-gh/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/hello-react-gh/index.html",
+    "precache-manifest.34bb1b1e1bfb46dc324702c08f6419d5.js": "/hello-react-gh/precache-manifest.34bb1b1e1bfb46dc324702c08f6419d5.js",
+    "service-worker.js": "/hello-react-gh/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/hello-react-gh/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/hello-react-gh/static/media/logo.5d5d9eef.svg"
+  }
+}
